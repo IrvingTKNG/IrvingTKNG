@@ -14,7 +14,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ![Hollow K](https://github.com/IrvingTKNG/IrvingTKNG/assets/147923620/78fe32e6-8a75-4c46-8f54-edacffd161f7)
-
+<img alt="Hollow Knight" src="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/assets/147923620/78fe32e6-8a75-4c46-8f54-edacffd161f7" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack (I'm learning too)
 
