@@ -1,16 +1,19 @@
-<img alt="Night Coding" src="https://github-production-user-asset-6210df.s3.amazonaws.com/147923620/278843259-78fe32e6-8a75-4c46-8f54-edacffd161f7.gif"  />
+<img alt="HollowKnight" src="https://github-production-user-asset-6210df.s3.amazonaws.com/147923620/278843259-78fe32e6-8a75-4c46-8f54-edacffd161f7.gif" align="center"  />
 <h2>Hey there! I'm Irving  </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Irving -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Informatic Engginer in UPIICSA.\
+⭐ &nbsp;I'm member of the Binary Brains club.\
 🌱 &nbsp;I'm on track for learning Web development.\
 🎮 &nbsp;In my free time I listen to music, take photos and play videogames!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<img alt="Bienvenido" src="https://github.com/IrvingTKNG/IrvingTKNG/blob/main/assets/Bienvenidx.png" height="300em" align="right" />
 
 
 ### 🛠 &nbsp;Tech Stack (I'm learning too)
@@ -28,14 +31,21 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
 
+
+
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/IrvingTKNG">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrvingTKNG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrvingTKNG&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> 
+
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -52,7 +62,6 @@ https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contributi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
 
 
 
