@@ -45,8 +45,6 @@
 </a>
 </p> 
 
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -54,7 +52,8 @@
 
   
 </p>
-🐍 &nbsp;Mira una serpienteee!
+🐍 &nbsp; Mira una serpiente 
+ 
 <div align="center">
 <picture>
 https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contribution-grid-snake-dark.svg">
@@ -66,6 +65,6 @@ https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contributi
 
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Template by: [Aditya Vikram Singh](https://github.com/AVS1508)
 
 Last Edited on: 25/10/2023
