@@ -14,6 +14,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
 ### 🛠 &nbsp;Tech Stack (I'm learning too)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -53,7 +54,7 @@ https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contributi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
+![Hollow K](https://github.com/IrvingTKNG/IrvingTKNG/assets/147923620/10c2328a-f01e-4d5d-94e0-e8da558f8356)
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
