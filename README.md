@@ -13,6 +13,7 @@
 🎮 &nbsp;In my free time I listen to music, take photos and play videogames!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![Hollow K](https://github.com/IrvingTKNG/IrvingTKNG/assets/147923620/78fe32e6-8a75-4c46-8f54-edacffd161f7)
 
 
 ### 🛠 &nbsp;Tech Stack (I'm learning too)
@@ -54,7 +55,6 @@ https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contributi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-![Hollow K](https://github.com/IrvingTKNG/IrvingTKNG/assets/147923620/10c2328a-f01e-4d5d-94e0-e8da558f8356)
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
