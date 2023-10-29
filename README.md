@@ -1,7 +1,5 @@
-
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Irving XD</h2>
+<img alt="Night Coding" src="https://github-production-user-asset-6210df.s3.amazonaws.com/147923620/278843259-78fe32e6-8a75-4c46-8f54-edacffd161f7.gif"  />
+<h2>Hey there! I'm Irving  </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Irving -->
 
@@ -13,8 +11,7 @@
 🎮 &nbsp;In my free time I listen to music, take photos and play videogames!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-![Hollow K](https://github.com/IrvingTKNG/IrvingTKNG/assets/147923620/78fe32e6-8a75-4c46-8f54-edacffd161f7)
-<img alt="Hollow Knight" src="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/assets/147923620/78fe32e6-8a75-4c46-8f54-edacffd161f7" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack (I'm learning too)
 
