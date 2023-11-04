@@ -1,0 +1,39 @@
+body {
+  background-image: url(./source/fondo.jpg);
+}
+.contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px red solid;
+  height: 100vh;
+}
+.centrado {
+  width: 45%;
+  height: 33%;
+  background-color: black;
+  opacity: 40%;
+  border: 3px blanchedalmond solid;
+  border-radius: 10px;
+  color: white;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+    justify-content: space-around;
+  align-items: center;
+}
+.info {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.redes {
+  display: flex;
+  flex-direction: column;
+}
+
+.foto {
+  border-radius: 50%;
+  opacity: 100%;
+}
