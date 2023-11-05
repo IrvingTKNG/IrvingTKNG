@@ -1,0 +1,73 @@
+body{
+    background-image: url(/source/Fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.ContPadre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.contenido{
+    border: 2px solid black;
+    height: 388px;
+    width: 586px;
+    border-radius: 10px;
+    background-color: #1C2833;
+}
+.Barra{
+    width: 586px;
+    height: 30px;
+    background-color: #17202A;
+    display: flex;
+}
+
+.icon{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    margin-right: 4px;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+.icon.green{
+    background-color:#186a3b ;
+}
+.icon.yellow{
+    background-color: #f4d03f ;
+}
+.icon.red{
+    background-color: #c0392b ;
+}
+.texto{
+    color: white;
+    margin-left: 3px;
+}
+
+p {
+    width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 1rem;
+    margin: 0 auto;
+    font-family: "Courier New";
+    border-right: 0.06em solid #FFFF;
+    animation: typing 4s steps(25) 1s 1 normal both, blink 1s steps(1) infinite;
+  }
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
