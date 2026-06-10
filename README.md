@@ -1,70 +1,66 @@
-<img alt="HollowKnight" src="https://github-production-user-asset-6210df.s3.amazonaws.com/147923620/278843259-78fe32e6-8a75-4c46-8f54-edacffd161f7.gif" align="center"  />
-<h2>Hey there! I'm Irving  </h2>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Irving -->
+###
 
-### 👨🏻‍💻 &nbsp;About Me
+<img align="left" height="320"  hspace="10" src="https://cdna.artstation.com/p/assets/images/images/026/415/402/original/moutaz-k-maudy-combined.gif?1588715248"  />
 
+###
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Informatic Engginer in UPIICSA.\
-⭐ &nbsp;I'm member of the Binary Brains club.\
-🌱 &nbsp;I'm on track for learning Web development.\
-🎮 &nbsp;In my free time I listen to music, take photos and play videogames!
+<p align="left"> I am a <strong>Back-End Software Engineer</strong>  specializing in building scalable APIs and microservices. My core expertise lies in the <strong>Java</strong> ecosystem, particularly leveraging <strong>Quarkus and Spring</strong> to deliver high-performance solutions. 
 
+  I am passionate about clean code, software architecture, and optimizing system performance in agile environments.
 
-<img alt="Bienvenido" src="https://github.com/IrvingTKNG/IrvingTKNG/blob/main/assets/Bienvenidx.png" height="300em" align="right" />
+  ### 🛠️ Technical Toolkit
 
+  * **Languages & Frameworks:** Java, Quarkus
+  * **Architecture & Practices:** Hexagonal Architecture, RESTful API Design, Clean Code, Agile Methodologies
+  * **Data & Persistence:** JPA / Hibernate, PostgreSQL, MySQL
+  * **Focus Areas:** Query optimization, performance tuning, and scalable backend design</p>
 
-### 🛠 &nbsp;Tech Stack (I'm learning too)
+###
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-
-
-
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/IrvingTKNG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrvingTKNG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrvingTKNG&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p> 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <p> NOT NOW :)</p>
-
-  
-</p>
-🐍 &nbsp; Mira una serpiente 
- 
 <div align="center">
-<picture>
-https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
 </div>
 
+###
+<br clear="both">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">  
+  <tr style="border: none;">
+ <td align="left" width="50%" valign="middle"> 
+   <img height="153" src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"  />
+    </td>
+        <td align="right" width="50%" valign="middle">
+  <img src="https://github-readme-stats.vercel.app/api?username=IrvingTKNG&show_icons=true&theme=tokyonight&locale=en" height="150" alt="stats graph" /> 
+      <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvingTKNG&layout=compact&theme=tokyonight&locale=en" height="150" alt="languages graph" />
+    </td>
+  </tr>
+</table>
+###
 
-
------
-Template by: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 25/10/2023
+###
