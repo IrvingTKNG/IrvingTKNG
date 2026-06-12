@@ -12,7 +12,7 @@
 
   ### 🛠️ Technical Toolkit
 
-  * **Languages & Frameworks:** Java, Quarkus
+  * **Languages & Frameworks:** Java, Quarkus, SpringBoot
   * **Architecture & Practices:** Hexagonal Architecture, RESTful API Design, Clean Code, Agile Methodologies
   * **Data & Persistence:** JPA / Hibernate, PostgreSQL, MySQL
   * **Focus Areas:** Query optimization, performance tuning, and scalable backend design</p>
