@@ -74,7 +74,7 @@
     srcset="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/dist/pacman-contribution-graph.svg">
 
   <img
-    src="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/dist/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/IrvingTKNG/IrvingTKNG/output/dist/pacman-contribution-graph-dark.svg"
     alt="pacman contribution graph"
     width="100%">
 </picture>
