@@ -30,6 +30,6 @@ jobs:
 
           git add .
           git commit -m "update pacman graph" || exit 0
-          git push
+          git push origin HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
